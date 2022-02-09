@@ -5,8 +5,8 @@
 - 📫 How to reach me 
 
 -
-        email:   die.mezlini@gmail.com  
-        linkedIn: @Hamza mezlini
+        email:   hamzamezlini9@gmail.com  
+        linkedIn: https://www.linkedin.com/in/hamzamezlini/
 <!---
 MezliniH/MezliniH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
