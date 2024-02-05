@@ -1,12 +1,13 @@
-- 👋 Hi, I’m @MezliniH
-- 👀 I’m interested in software development , linux sys administration && blockchain technology
-- 🌱 I’m currently learning Solidity ..
-- 💞️ I’m looking to collaborate on building a different  professional websites and android apps 
-- 📫 How to reach me 
+
+- 👋 Hello, I’m @MezliniH
+- 👀 I’m into software development, Linux sys administration & smart contracts creation
+- 🌱 I’m presently learning the Solidity programming language.
+- 💞️ I’m seeking to collaborate on constructing various professional web3 apps
+- 📫 How to contact me:
 
 -
         email:   hamzamezlini9@gmail.com  
-        linkedIn: https://www.linkedin.com/in/hamzamezlini/
+        LinkedIn: https://www.linkedin.com/in/hamzamezlini/
 <!---
 MezliniH/MezliniH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
